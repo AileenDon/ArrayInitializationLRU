@@ -47,6 +47,7 @@ Expected Behavior: The program should accept the input without errors and procee
 Test Case 2: Invalid Input (Non-Integer)
 **Input: Enter a non-integer value (e.g., "abc").**
 Expected Behavior: The program should display an error message indicating that the input is invalid and prompt the user to enter a valid integer.
+
 ![image](https://github.com/Ananyakakumanu/521_Proj4/assets/158865231/fa93b405-2212-4b52-bc0b-1913bf222c47)
 
 Test Case 3: Invalid Input (Negative Integer)
