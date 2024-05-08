@@ -65,17 +65,6 @@ Test Case 5: Invalid Input (Integer Overflow)
 Expected Behavior: The program should handle the input gracefully and prompt the user to enter a valid integer (without crashing due to integer overflow).
 ![image](https://github.com/Ananyakakumanu/521_Proj4/assets/158865231/e8a67664-6c5c-47b0-9234-9c4efb6d206c)
 
-## Contributors:
-
-Ananya Kakumanu
-
-- Import necessary Java utilities and initiating a scanner to take user input for the number of memory frames.
-- Validate the input to ensure it is a positive integer and handle any incorrect entries with appropriate error messages, continuing to prompt until valid data is entered.
-
-Aileen Dong
-
-- Compute the number of page faults for both column-major and row-major array initializations using a simulated least recently used (LRU) algorithm.
-- Print out the number of faults for each memory access pattern.
 
 ## Results Analysis:
 
